@@ -1,23 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hacking+The+Planet...;I+Am+C3L1KD+%F0%9F%94%91;Welcome+to+my+GitHub+Lair+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hacking+The+Planet...;I+Am+B0t+%F0%9F%94%91;Welcome+to+my+GitHub+Lair+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ```ts
 // ───────────────────────────────────────────────
-//  🧠 Dhanush Gollavilli ----> [C3L1KD]
+//  🧠 Anonymous Operative ----> [0xUSER]
 // ───────────────────────────────────────────────
 //  Full Stack Dev 🧑‍💻 | Cyber Security 🔐 | TryHackMe ☠️
-//  Terminal: root@C3L1KD ~ $ whoami
+//  Terminal: root@operator ~ $ whoami
 //  Output: FullStack | OffensiveSecurity | Creator
 
 import { stack, exploits, roadmap } from "und3rgr0und-core"
 
-const C3L1KD = {
-  id: "0xC3L1KD",
-  alias: "C3L1KD",
+const Operative = {
+  id: "0xUSER",
+  alias: "Anonymous",
   location: "127.0.0.1",
   status: "🟢 [Active]",
-  OSINT: "Dhanush Gollavilli",
   
   ⚙️ fullStack: {
     frontend: ["⚛️ React", "⚡ Vite", "🌪️ Tailwind", "🎞️ Framer Motion", "🎨 FontAwesome"],
@@ -46,7 +45,7 @@ const C3L1KD = {
 
   🎯 objectives: [
     "Build dark-themed dashboards 👨‍💻",
-    "Deploy my own vulnerable labs 🌐",
+    "Deploy custom vulnerable labs 🌐",
     "Automate cyber tools 🤖",
     "Contribute to open-source ⚙️"
   ],
@@ -55,8 +54,8 @@ const C3L1KD = {
 }
 
 function init() {
-  console.log(">> Access granted to C3L1KD's GitHub Matrix...");
-  console.table(C3L1KD);
+  console.log(">> Access granted to encrypted matrix...");
+  console.table(Operative);
 }
 
 init();
