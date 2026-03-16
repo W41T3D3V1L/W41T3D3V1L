@@ -137,7 +137,7 @@ I'm a fresher developer who blends **full-stack engineering** with **penetration
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=W41T3D3V1L&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
